@@ -1,0 +1,8 @@
+D:\PricingCalculationTest-master\PricingCalculationTest-master\Pricing.Tests\bin\Debug\Pricing.Tests.dll
+D:\PricingCalculationTest-master\PricingCalculationTest-master\Pricing.Tests\bin\Debug\Pricing.Tests.pdb
+D:\PricingCalculationTest-master\PricingCalculationTest-master\Pricing.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\PricingCalculationTest-master\PricingCalculationTest-master\Pricing.Tests\bin\Debug\Pricing.Core.dll
+D:\PricingCalculationTest-master\PricingCalculationTest-master\Pricing.Tests\bin\Debug\Pricing.Core.pdb
+D:\PricingCalculationTest-master\PricingCalculationTest-master\Pricing.Tests\obj\Debug\Pricing.Tests.csprojResolveAssemblyReference.cache
+D:\PricingCalculationTest-master\PricingCalculationTest-master\Pricing.Tests\obj\Debug\Pricing.Tests.dll
+D:\PricingCalculationTest-master\PricingCalculationTest-master\Pricing.Tests\obj\Debug\Pricing.Tests.pdb

@@ -1,0 +1,5 @@
+D:\PricingCalculationTest-master\PricingCalculationTest-master\Pricing.Core\bin\Debug\Pricing.Core.dll
+D:\PricingCalculationTest-master\PricingCalculationTest-master\Pricing.Core\bin\Debug\Pricing.Core.pdb
+D:\PricingCalculationTest-master\PricingCalculationTest-master\Pricing.Core\obj\Debug\Pricing.Core.csprojResolveAssemblyReference.cache
+D:\PricingCalculationTest-master\PricingCalculationTest-master\Pricing.Core\obj\Debug\Pricing.Core.dll
+D:\PricingCalculationTest-master\PricingCalculationTest-master\Pricing.Core\obj\Debug\Pricing.Core.pdb
